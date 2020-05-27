@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-05-15T10:57:19.886Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Test</title>
+    <link href="http://yoursite.com/2020/05/15/Test/"/>
+    <id>http://yoursite.com/2020/05/15/Test/</id>
+    <published>2020-05-15T10:57:19.000Z</published>
+    <updated>2020-05-15T10:57:19.886Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2020/05/15/hello-world/"/>
+    <id>http://yoursite.com/2020/05/15/hello-world/</id>
+    <published>2020-05-15T07:38:57.922Z</published>
+    <updated>2020-05-15T07:38:57.922Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>TF3</title>
+    <link href="http://yoursite.com/2020/05/06/TF3/"/>
+    <id>http://yoursite.com/2020/05/06/TF3/</id>
+    <published>2020-05-06T06:09:58.000Z</published>
+    <updated>2020-05-20T06:10:57.329Z</updated>
+    
+    <content type="html"><![CDATA[<p>daunting：intimidating, discouraging, frightening, disheartening, unnerving, dismaying</p><p>demoralizing, formidable</p><p>delineate(de- : emphasize -ate)</p><p>spect- </p><ul><li><p>perspective 透视; 视角（per- 每一个）  from the …</p></li><li><p>spectator 观众</p></li><li><p>spectacle 景象；景观（make a spectacle of oneself 出洋相）</p></li><li><p>spectacles 眼镜</p></li><li><p>specsaver : 可能是眼镜店</p></li><li><p>inspect; retrospect 回归 回溯; introspect </p></li><li><p>introspect 反省 </p></li><li><p>in retrospect</p></li><li><p>prospect; 可能性；前途</p></li><li><p>spectrum, </p></li></ul><p>-spi-</p><ul><li><p>despise: look down on; show contempt at ( <em>despicable me</em> )</p></li><li><p>perspicacious(insightful) adj.  a ~ analysis of the issue</p></li><li><p>conspicuous : attention-getting（引人瞩目的）; <strong>salient</strong></p></li></ul><p>literal 字面意义的; lateral 侧面的，横向的 （bilateral 双边的）; literate 受教育的</p><ul><li>the liberal arts education; liberal-minded</li><li>liberty; liberate v.(the liberal arts education)</li></ul><p>initiate; initiative (take one’s initialtive)</p><p>curve</p><ul><li><strong>marking on a curve/grading on a curve</strong> 正态</li><li>a curve wrecker 学霸</li></ul><p>dissolve v. </p><ul><li>solution（溶液）; solvent（溶剂）</li><li>absolve 赦免；排除  be absolved from : be exempt from</li></ul><p>the most vigorous opponent of … </p><ul><li>proponent; exponent</li></ul><p><strong>immense; enormous; appreciable</strong></p><ul><li>pique one’s curiosity:: arouse; stimulate; catalyse; evoke; trigger; spark</li></ul><p>-cast</p><ul><li>broadcast; sportscast; podcast; vlog; live-streaming</li></ul><p>  be subject to : be prone/vulnerable to</p><p>  assault: attack</p><p>celestial: heavenly ( the celestial beauty of one’s voice)</p><p>create/produce/exert a () impact</p><p><strong>describing large amount</strong> far-reaching;decisive; remarkable; appreciable; immense; enormous; tremendous</p><p><strong>small</strong> subtle; minimal; marginal; negligible; moderate</p><p><strong>负面</strong> adverse; destructive; catastrophic; debilitating; deleterious; crippling; paralysing; detrimental; </p><p><strong>好的</strong> beneficial; positive</p><p><strong>连锁的</strong> domino; knock-on; spin-off; ripple</p><p>overtake; transcend; surpass</p><p>supersede: supplant</p><p>assiduous adj. assiduity n. 勤奋的 (studious; sedulous)</p><p>sedate adj. 冷静的 sedative n. 镇定剂</p><p>dissident 持不同政见者 </p><p>subside v.</p><p>terra- 地形</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;daunting：intimidating, discouraging, frightening, disheartening, unnerving, dismaying&lt;/p&gt;
+&lt;p&gt;demoralizing,
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="English Notes" scheme="http://yoursite.com/tags/English-Notes/"/>
+    
+  </entry>
+  
+</feed>
