@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 
 I am Zhe Su (苏哲), an undergraduate from Mixed Class, Chu Kochen Honors College, Zhejiang University. I am broadly interested in natural language processing and machine learning.
 
-Currently, I am an research intern at Microsoft Research Asia (MSRA), working with senior researcher [Li Dong](http://dong.li/). I also work with [Zhou Zhao](https://person.zju.edu.cn/zhaozhou) at DCD lab at Zhejiang University. I spent the spring of 2022 working with [Zhenbang Wu](https://zzachw.github.io/), Dr. [Huaxiu Yao](https://huaxiuyao.mystrikingly.com/) and Prof. [Jimeng Sun](https://cs.illinois.edu/about/people/faculty/jimeng) 
+Currently, I am an research intern at Microsoft Research Asia (MSRA), working with senior researcher [Li Dong](http://dong.li/). I also work with [Zhou Zhao](https://person.zju.edu.cn/zhaozhou) at Zhejiang University on text-to-speech. I spent the spring of 2022 working with [Zhenbang Wu](https://zzachw.github.io/), Dr. [Huaxiu Yao](https://huaxiuyao.mystrikingly.com/) and Prof. [Jimeng Sun](https://cs.illinois.edu/about/people/faculty/jimeng) on knowledge-driven drug recommendation. 
 
 
 ## Publications

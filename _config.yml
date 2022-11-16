@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhe Su's Homepage"
+title                    : "Zhe's Homepage"
 title_separator          : "-"
 name                     : &name "Zhe Su"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zhe Su"
-  avatar           : "images/bio-photo.jpg"
+  avatar           : "profile.jpg"
   bio              : "Undergraduate @ Zhejiang University"
   location         : "Hangzhou, China"
   employer         :
