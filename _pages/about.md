@@ -16,8 +16,8 @@ Currently, I am an research intern at Microsoft Research Asia (MSRA), working wi
 ## Publications
 
 ### 2022
-+ [Dict-TTS: Learning to Pronounce with Prior Dictionary Knowledge for Text-to-Speech](https://arxiv.org/abs/2206.02147) </br>
++ [Dict-TTS: Learning to Pronounce with Prior Dictionary Knowledge for Text-to-Speech](https://arxiv.org/abs/2206.02147) <br/>
 Ziyue Jiang\*, **Zhe Su\***, Zhou Zhao, Qian Yang, Yi Ren, Jinglin Liu, Zhenhui Ye. *NeurIPS 2022 (Spotlight)*.
 
-+ [Knowledge-Driven New Drug Recommendation](https://arxiv.org/abs/2210.05572) </br> 
++ [Knowledge-Driven New Drug Recommendation](https://arxiv.org/abs/2210.05572) <br/> 
 Zhenbang Wu, Huaxiu Yao, **Zhe Su**, David M Liebovitz, Lucas M Glass, James Zou, Chelsea Finn, Jimeng Sun. *Submitted to ICLR 2023*
