@@ -22,5 +22,4 @@ Ziyue Jiang\*, **Zhe Su\***, Zhou Zhao, Qian Yang, Yi Ren, Jinglin Liu, Zhenhui 
 + [Knowledge-Driven New Drug Recommendation](https://arxiv.org/abs/2210.05572) <br/> 
 Zhenbang Wu, Huaxiu Yao, **Zhe Su**, David M Liebovitz, Lucas M Glass, James Zou, Chelsea Finn, Jimeng Sun. *Submitted to ICLR 2023*
 
-
-<a href="https://clustrmaps.com/site/1brka"  title="Visit tracker" style="display:none"><img src="//www.clustrmaps.com/map_v2.png?d=SZVY_qQLUuMQNhS9vvYRHoE3eIkGk_rBgpyvfjcPuAI&cl=ffffff" hidden/></a>
+![img](https://www.clustrmaps.com/map_v2.png?d=SZVY_qQLUuMQNhS9vvYRHoE3eIkGk_rBgpyvfjcPuAI&cl=ffffff)
