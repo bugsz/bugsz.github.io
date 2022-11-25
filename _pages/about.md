@@ -25,5 +25,6 @@ Zhenbang Wu, Huaxiu Yao, **Zhe Su**, David M Liebovitz, Lucas M Glass, James Zou
 <br/><br/>
 
 <div style="display:none">
-![img](https://www.clustrmaps.com/map_v2.png?d=SZVY_qQLUuMQNhS9vvYRHoE3eIkGk_rBgpyvfjcPuAI&cl=ffffff)
+<!-- ![img](https://www.clustrmaps.com/map_v2.png?d=SZVY_qQLUuMQNhS9vvYRHoE3eIkGk_rBgpyvfjcPuAI&cl=ffffff) -->
+<img src="https://www.clustrmaps.com/map_v2.png?d=SZVY_qQLUuMQNhS9vvYRHoE3eIkGk_rBgpyvfjcPuAI&cl=ffffff">
 </div>
