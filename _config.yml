@@ -50,10 +50,10 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
+# google_site_verification :
+# bing_site_verification   :
+# alexa_site_verification  :
+# yandex_site_verification :
 
 # Social Sharing
 # twitter:
@@ -84,37 +84,37 @@ author:
   avatar           : "profile.png"
   bio              : "MSML student @ Carnegie Mellon University"
   location         : "Pittsburgh, PA"
-  employer         :
-  pubmed           : 
-  # googlescholar    : "https://scholar.google.com/citations?user=Fvq2R14AAAAJ&hl=zh-CN"
+  # employer         :
+  # pubmed           : 
+  # # googlescholar    : "https://scholar.google.com/citations?user=Fvq2R14AAAAJ&hl=zh-CN"
   email            : "suzhesz00@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
+  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  # uri              :
+  # bitbucket        :
+  # codepen          :
+  # dribbble         :
+  # flickr           :
+  # facebook         :
+  # foursquare       :
   github           : "bugsz"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : 
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : 
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  # google_plus      :
+  # keybase          :
+  # instagram        :
+  # impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  # lastfm           :
+  # linkedin         :
+  # orcid            : 
+  # pinterest        :
+  # soundcloud       :
+  # stackoverflow    : 
+  # steam            :
+  # tumblr           :
+  # twitter          : 
+  # vine             :
+  # weibo            :
+  # xing             :
+  # youtube          :
+  # wikipedia        :
 
 
 # Reading Files
