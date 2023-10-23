@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Zhe Su (苏哲), an undergraduate from Mixed Class, Chu Kochen Honors College, Zhejiang University. I am broadly interested in natural language processing and machine learning.
+I am Zhe Su (苏哲), a master student from Master of Science in Machine Learning in CMU. I did my undergraduate study in Mixed Class, Chu Kochen Honors College, Zhejiang University. I am broadly interested in speech synthesizing, natural language processing, and machine learning.
 
-Currently, I am an research intern at Microsoft Research Asia (MSRA), working with senior researcher [Li Dong](http://dong.li/). I also work with [Zhou Zhao](https://person.zju.edu.cn/zhaozhou) at Zhejiang University on text-to-speech. I spent the spring of 2022 working with [Zhenbang Wu](https://zzachw.github.io/), Dr. [Huaxiu Yao](https://huaxiuyao.mystrikingly.com/) and Prof. [Jimeng Sun](https://cs.illinois.edu/about/people/faculty/jimeng) on knowledge-driven drug recommendation. 
+I was a research intern at Microsoft Research Asia (MSRA), working with principal researcher [Li Dong](http://dong.li/). I also worked with [Zhou Zhao](https://person.zju.edu.cn/zhaozhou) at Zhejiang University on text-to-speech. I spent the spring of 2022 working with [Zhenbang Wu](https://zzachw.github.io/), Dr. [Huaxiu Yao](https://huaxiuyao.mystrikingly.com/) and Prof. [Jimeng Sun](https://cs.illinois.edu/about/people/faculty/jimeng) on knowledge-driven drug recommendation. 
 
 
 ## Publications
@@ -20,11 +20,11 @@ Currently, I am an research intern at Microsoft Research Asia (MSRA), working wi
 Ziyue Jiang\*, **Zhe Su\***, Zhou Zhao, Qian Yang, Yi Ren, Jinglin Liu, Zhenhui Ye. *NeurIPS 2022 (Spotlight)*.
 
 + [Knowledge-Driven New Drug Recommendation](https://arxiv.org/abs/2210.05572) <br/> 
-Zhenbang Wu, Huaxiu Yao, **Zhe Su**, David M Liebovitz, Lucas M Glass, James Zou, Chelsea Finn, Jimeng Sun. *Submitted to ICLR 2023*
+Zhenbang Wu, Huaxiu Yao, **Zhe Su**, David M Liebovitz, Lucas M Glass, James Zou, Chelsea Finn, Jimeng Sun. *NeurIPS 2022 Metalearn Workshop*
 
 <br/><br/>
 
-<div style="display:none">
+
+<!-- div style="display:none" -->
 <!-- ![img](https://www.clustrmaps.com/map_v2.png?d=SZVY_qQLUuMQNhS9vvYRHoE3eIkGk_rBgpyvfjcPuAI&cl=ffffff) -->
-<img src="https://www.clustrmaps.com/map_v2.png?d=SZVY_qQLUuMQNhS9vvYRHoE3eIkGk_rBgpyvfjcPuAI&cl=ffffff" />
-</div>
+<!-- img src="https://www.clustrmaps.com/map_v2.png?d=SZVY_qQLUuMQNhS9vvYRHoE3eIkGk_rBgpyvfjcPuAI&cl=ffffff" -->
